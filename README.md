@@ -33,18 +33,22 @@ This is a web based application developed for health related based website in in
 
 ### About Us -
 
+![About](https://user-images.githubusercontent.com/110875489/203469674-01b63a5b-a0c9-4339-be0f-abff3e00a9b5.PNG)
 
 
 ### Services -
+![Service](https://user-images.githubusercontent.com/110875489/203469762-8f17e949-62b2-4eac-a060-046f4de731c9.PNG)
 
 
 
 ### Contact us -
+![Contact Us](https://user-images.githubusercontent.com/110875489/203469727-09dc6a27-78ea-4842-8247-6571cd9c4c03.PNG)
 
 
 
 ### Azure Bot -
 
+![Azure Bot](https://user-images.githubusercontent.com/110875489/203469691-2be56111-3c9b-4311-8774-4e62f3479057.PNG)
 
 
 
