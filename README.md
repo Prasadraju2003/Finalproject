@@ -5,7 +5,7 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* -
+*Project Link* -   https://zealous-wave-010b3de10.2.azurestaticapps.net/index.html
 *project demo video link* - 
 
 ## Azure technologies used for Project
@@ -24,7 +24,7 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
-
+### Home -
 
 
    
@@ -41,7 +41,7 @@ This is a web based application developed for health related based website in in
 
 
 
-### Azure Bot
+### Azure Bot -
 
 
 
