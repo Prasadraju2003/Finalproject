@@ -6,7 +6,8 @@ This is a web based application developed for health related based website in in
 
 
 *Project Link* -   https://zealous-wave-010b3de10.2.azurestaticapps.net/index.html
-*project demo video link* - 
+*project demo video link* -  https://youtube.com/watch?v=4TEc3FNBjOs
+
 
 ## Azure technologies used for Project
 
@@ -54,7 +55,6 @@ This is a web based application developed for health related based website in in
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)]
 - HTML
 - CSS
 - Bootstrap
